@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="but_01">미림여자정보과학고</string>
+    <string name="but_02">미림여정과고</string>
+    <string name="but_03">미림과학고</string>
+    <string name="but_04">미림고</string>
+    <string name="but_05">미림마이스터고</string>
+</resources>
